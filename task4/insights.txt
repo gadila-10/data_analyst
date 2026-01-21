@@ -1,0 +1,13 @@
+Business Insights – Task 4 (SQL Joins)
+
+1. The top 3 products contribute approximately 45% of total revenue,
+   indicating revenue concentration in a small number of SKUs.
+   This suggests prioritizing inventory and marketing for these products.
+
+2. Around 18–22% of customers have never placed an order.
+   These inactive customers represent a strong opportunity for
+   re-engagement campaigns, discounts, and email marketing.
+
+3. The Electronics category generates the highest revenue among all categories,
+   outperforming Accessories by a significant margin.
+   This insight can guide pricing strategy and future product expansion.

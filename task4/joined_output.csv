@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,customer_name,country,product_name,category_name,quantity,unit_price,total_revenue
+101,2023-03-12,1,Alice Brown,USA,Wireless Mouse,Accessories,2,25,50
+102,2023-03-15,2,Rahul Mehta,India,Laptop Stand,Accessories,1,40,40
+103,2023-04-01,3,John Smith,USA,USB Keyboard,Accessories,3,20,60
+104,2023-04-05,4,Emma Wilson,UK,Noise Cancelling Headphones,Electronics,1,120,120
+105,2023-04-10,1,Alice Brown,USA,Webcam,Electronics,2,75,150
