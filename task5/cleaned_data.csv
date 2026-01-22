@@ -1,0 +1,11 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,Fare,Embarked,AgeGroup
+1,0,3,"Allen, Mr. John",male,22.0,7.25,S,Young Adult
+2,1,1,"Brown, Mrs. Anna",female,38.0,71.28,C,Adult
+3,1,3,"Clark, Miss. Kate",female,30.0,7.92,S,Young Adult
+4,0,1,"Davis, Mr. Sam",male,35.0,53.1,S,Young Adult
+5,1,2,"Evans, Mrs. Mary",female,28.0,11.13,S,Young Adult
+6,0,3,"Ford, Mr. Will",male,30.0,8.05,S,Young Adult
+7,0,2,"Green, Mr. Tom",male,40.0,13.0,C,Adult
+8,1,1,"Hall, Miss. Rose",female,19.0,30.0,C,Young Adult
+9,1,3,"Irwin, Mrs. Emma",female,30.0,23.45,S,Young Adult
+10,0,2,"Jones, Mr. Jack",male,30.0,15.5,Q,Young Adult
